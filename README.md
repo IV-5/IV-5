@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izuagbaeke Valentine @IV-5
 - 👀 I’m interested in IoT, web and software applications
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning new tech stacks, java, kotlin
 - 💞️ I’m looking to collaborate on an ongoing project, team, new project, contributions...
 - 📫 How to reach me [Email](spindeveloper70@gmail.com)
 - 😄 Pronouns: he/him
